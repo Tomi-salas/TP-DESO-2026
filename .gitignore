@@ -1,0 +1,9 @@
+.idea/
+*.iml
+out/
+.vscode/
+api/target/
+frontend/node_modules/
+frontend/.next/
+.env
+material-catedra/
